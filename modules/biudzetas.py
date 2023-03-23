@@ -1,7 +1,7 @@
 import pickle
 from .islaidu_irasas import IslaiduIrasas
 from .pajamu_irasas import PajamuIrasas
-print('laba diena')
+
 
 class Biudzetas:
     def __init__(self):
